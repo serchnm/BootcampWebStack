@@ -1,0 +1,16 @@
+img { 
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
