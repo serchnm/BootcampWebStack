@@ -28,3 +28,7 @@ body {
   width: 200px;
   height: 200px;
 }
+.cloud {
+  position: relative;
+  left: 200px;
+}
